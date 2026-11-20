@@ -1,0 +1,16 @@
+{
+    "total_perangkat": 6,
+    "total_nilai_aset_rp": 24700150,
+    "rekap_per_lokasi": {
+        "Kantor": 1,
+        "Lab Hardware": 1,
+        "Lab Jaringan A": 2,
+        "Lab Jaringan B": 1,
+        "Lab Multimedia": 1
+    },
+    "rekap_per_kondisi": {
+        "Aktif": 3,
+        "Perbaikan": 1,
+        "Rusak": 2
+    }
+}

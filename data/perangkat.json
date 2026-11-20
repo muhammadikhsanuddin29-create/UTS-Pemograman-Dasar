@@ -1,0 +1,44 @@
+[
+    {
+        "id": "NET-001",
+        "nama": "Cisco Catalyst 2960 Switch",
+        "lokasi": "Lab Jaringan A",
+        "kondisi": "Aktif",
+        "harga": 4500000
+    },
+    {
+        "id": "NET-002",
+        "nama": "Cisco ISR 1941 Router",
+        "lokasi": "Lab Jaringan A",
+        "kondisi": "Aktif",
+        "harga": 7000000
+    },
+    {
+        "id": "NET-003",
+        "nama": "MikroTik RB4011iGS+",
+        "lokasi": "Lab Jaringan B",
+        "kondisi": "Aktif",
+        "harga": 3200000
+    },
+    {
+        "id": "NET-004",
+        "nama": "Access Point Ubiquiti UniFi",
+        "lokasi": "Lab Multimedia",
+        "kondisi": "Perbaikan",
+        "harga": 1500000
+    },
+    {
+        "id": "NET-005",
+        "nama": "Fluke CableIQ Qualifier",
+        "lokasi": "Lab Hardware",
+        "kondisi": "Rusak",
+        "harga": 8500000
+    },
+    {
+        "id": "NET-006",
+        "nama": "Indihome",
+        "lokasi": "Kantor",
+        "kondisi": "Rusak",
+        "harga": 150
+    }
+]
